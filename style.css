@@ -319,6 +319,23 @@ footer .copyright {
         width: 40px;
     }
 
+    body{
+    background-color: red;
+    overflow-x: hidden;
+}
+    
+
+        .logo img {
+        width: 0px;
+    }
+
+    header{
+        padding: 1px;
+    }
+    a{
+        margin-left: 1px;
+    }
+
     h1 img {
         max-width: 200px;
     }
